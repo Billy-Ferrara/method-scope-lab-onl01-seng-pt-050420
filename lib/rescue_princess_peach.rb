@@ -1,3 +1,3 @@
-def rescue_princess_peace
+def rescue_princess_peach
 
-end 
+end
